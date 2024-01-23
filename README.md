@@ -1,6 +1,8 @@
 DS GA 1001: Intro to Data Science
+
 Capstone Project
-Team members: Anshika Gupta, Syed Hussain
+
+Team members: [Anshika Gupta](https://github.com/csendranshi), [Syed Hussain]()
 
 ## Introduction and data preprocessing
 We’re given two datasets, spotify52k dataset and starRatings dataset which contain data on various different songs like the album name, genre, duration, valence, etc along with multiple user ratings given to the first 5k songs. 
